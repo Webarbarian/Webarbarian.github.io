@@ -286,6 +286,10 @@ a:focus {
 	font-size: 1.5rem;
 }
 
+.linkk {
+	color: #47a15f;
+}
+
 .item__content-text {
 	margin: 10vh 0 4rem 0;
 	position: relative;
